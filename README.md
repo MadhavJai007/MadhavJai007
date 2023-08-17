@@ -19,7 +19,7 @@
 
 <div align="center">
 
-  <h1 id="introduction">Introduction</h1>
+  <h1 id="introduction">An Introduction 👋</h1>
   
   <p>Full stack developer with an interest in building web and mobile app solutions.</p>
   <p>I'm currently interested in learning more about AI technologies and exploring how to integrate that with web/mobile apps.</p>
@@ -63,7 +63,7 @@
 </div>
 
 ###
-
+<h2 align="center">📊 Stats 🤓</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MadhavJai007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MadhavJai007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
