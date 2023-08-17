@@ -6,7 +6,7 @@
 
 ###
 
-<a href="https://mjfolio.vercel.app" align="center">Check out my website</>
+<a href="https://mjfolio.vercel.app" align="center">Check out my website</a>
 
 ###
 
