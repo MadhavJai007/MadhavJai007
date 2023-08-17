@@ -3,16 +3,13 @@
 ###
 
 <h3 align="center">Full stack developer</h3>
-
-###
-
 <div align="center">
   <a href="https://mjfolio.vercel.app" >Check out my website</a>
 </div>
 
 ###
 
-<p align="center">The tech stack that I work with 👇</p>
+<h2 align="center">The tech stack that I work with 👇</h2>
 
 ###
 
@@ -55,7 +52,7 @@
 
 ###
 
-<h4 align="center">Reach out and connect with me 👇</h4>
+<h2 align="center">Reach out and connect with me 👇</h>
 
 ###
 
