@@ -19,13 +19,13 @@
 
 <div align="center">
 
-  <h1 id="introduction">Introduction 👋</h1>
+  <h1 id="introduction">Intro</h1>
   
   <p>Full stack developer with an interest in building web and mobile app solutions.</p>
   <p>I'm currently interested in learning more about AI technologies and exploring how to integrate that with web/mobile apps.</p>
 </div>
 
-<h2 align="center">The tech stack that I work with 👇</h2>
+<h2 align="center">The tech stacks i've worked with</h2>
 
 ###
 
