@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/madhav-jaisankar/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="linkedin logo"  />
   </a>
-  <a href="">
+  <a href="https://mjfolio.vercel.app/">
     <img src="https://img.shields.io/badge/website-20B2AA?style=for-the-badge" height="29" alt="website logo"
       />
   </a>
