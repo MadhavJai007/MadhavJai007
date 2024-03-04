@@ -5,8 +5,7 @@
 
   <h1 id="introduction">Intro</h1>
 
-  <p>Full stack developer with an interest in building web and mobile app solutions.</p>
-  <p>I'm currently interested in learning more about AI technologies and exploring how to integrate that with web/mobile apps.</p>
+  <p>Hi, I'm a Full stack developer building web and mobile app solutions.</p>
 </div>
 
 <h2 align="center">The tech stacks i've worked with</h2>
