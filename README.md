@@ -1,16 +1,28 @@
 <!--   <a href="https://mjfolio.vercel.app" >Check out my website</a> -->
-</div>
 
+
+<h1 align="center">Madhav Jaisankar</h1>
 <div align="center">
-
-  <h1 id="introduction">Intro</h1>
-
-  <p>Hi, I'm a Full stack developer building web and mobile app solutions.</p>
+  <h2>Full Stack Developer</h2>
+  <p>Hi, I'm a full stack developer building web and mobile app solutions.</p>
 </div>
+<div align="center">
+  <a href="mailto:madhav.jaisankar@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/madhav-jaisankar/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="linkedin logo"  />
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/website-20B2AA?style=for-the-badge" height="29" alt="website logo"
+      />
+  </a>
+</div>
+
+
+
 
 <h2 align="center">The tech stacks i've worked with</h2>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
